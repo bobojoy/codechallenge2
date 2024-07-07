@@ -87,7 +87,8 @@ This project was contributed to by:
 
 - [Joy Wambui](https://github.com/bobojoy/)
 
-## Interactive Shopping List reference ```https://bobojoy.github.io/codechallenge2/```
+### Interactive Shopping List reference 
+```https://bobojoy.github.io/codechallenge2/```
 ## License
 
 [![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
