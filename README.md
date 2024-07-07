@@ -53,7 +53,7 @@ To use this repo, follow these steps:
 
 - Remember to replace your username when cloning.
 
-      git clone https://git@github.com:bobojoy/codechallenge2.git
+      git clone https://github.com/bobojoy/codechallenge2.git
 
 
 
@@ -76,6 +76,10 @@ To use this repo, follow these steps:
 
 - With the `index.html` file still running in your browser,input any item and click the add button *if you want to add the item to your cart*or the clear button _if the item is no longer needed_
 
+### Technologies.
+- HTML
+- CSS
+- Javascript
 
 ## Authors
 
