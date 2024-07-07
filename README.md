@@ -53,7 +53,8 @@ To use this repo, follow these steps:
 
 - Remember to replace your username when cloning.
 
-      git clone https://github.com/your-github-username-here/codechallenge2.git
+      git clone https://git@github.com:bobojoy/codechallenge2.git
+
 
 
 
