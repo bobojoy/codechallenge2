@@ -37,7 +37,7 @@ To use this repo, follow these steps:
 
 3.  Change directory to the repo folder:
 
-        cd toy_problems_js_only
+        cd codechallenge2
 
 4.  Open it in your Code Editor of choice. If you use VS Code, run the command:
 
@@ -53,7 +53,8 @@ To use this repo, follow these steps:
 
 - Remember to replace your username when cloning.
 
-      git clone https://github.com/your-github-username-here/codechallenge2.git
+      git clone https://github.com/bobojoy/codechallenge2.git
+
 
 
 
@@ -61,10 +62,10 @@ To use this repo, follow these steps:
 - Array
 1.  Maintain a JavaScript array to store shopping list items.
 
-- DOM Manipulation.
-1.Create an HTML structure with an input field for adding items, a list container to display items, and buttons for "Add", "Mark Purchased", and "Clear List".
-2.Use JavaScript to dynamically add new items to the list container when the user clicks the "Add" button. (The new items do not have to be persisted once the page refreshes)
-3.Update the list item visually to indicate purchased items (e.g., strikethrough text, different background color).
+- DOM Manipulation
+1. Create an HTML structure with an input field for adding items, a list container to display items, and buttons for "Add", "Mark Purchased", and "Clear List".
+2. Use JavaScript to dynamically add new items to the list container when the user clicks the "Add" button. (The new items do not have to be persisted once the page refreshes)
+3. Update the list item visually to indicate purchased items (e.g., strikethrough text, different background color).
 
 - Event Handling.
 1. Attach event listeners to the "Add" button to capture user input and add items to the list.
@@ -75,6 +76,10 @@ To use this repo, follow these steps:
 
 - With the `index.html` file still running in your browser,input any item and click the add button *if you want to add the item to your cart*or the clear button _if the item is no longer needed_
 
+### Technologies.
+- HTML
+- CSS
+- Javascript
 
 ## Authors
 
