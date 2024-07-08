@@ -17,15 +17,15 @@ Develop a webpage with a shopping list. Users can add items to the list, mark it
 5. Ensure your repository has a well written README.
 
 ## Requirements
-- Array
+### Array
 1.  Maintain a JavaScript array to store shopping list items.
 
-- DOM Manipulation
+### DOM Manipulation
 1. Create an HTML structure with an input field for adding items, a list container to display items, and buttons for "Add", "Mark Purchased", and "Clear List".
 2. Use JavaScript to dynamically add new items to the list container when the user clicks the "Add" button. (The new items do not have to be persisted once the page refreshes)
 3. Update the list item visually to indicate purchased items (e.g., strikethrough text, different background color).
-
-- Event Handling.
+   
+### Event Handling.
 1. Attach event listeners to the "Add" button to capture user input and add items to the list.
 2. Attach event listeners to the list of items to allow users to mark them as purchased.
 3. Attach an event listener to the "Clear List" button to remove all items from the list.
